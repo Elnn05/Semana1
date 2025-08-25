@@ -1,4 +1,4 @@
-# Semana1; variable, entradas y salidas de datos
+# Semana1: variable, entradas y salidas de datos
 
 ## Variables
 
